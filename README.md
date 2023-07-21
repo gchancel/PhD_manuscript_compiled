@@ -6,4 +6,4 @@ A simple repository for my PhD LaTeX compiled .pdf
 
 Labels are highlighted and visible for debugging purposes.
 
-Check the rekease section to download the .pdf file.
+# Check the rekease section to download the .pdf file.
